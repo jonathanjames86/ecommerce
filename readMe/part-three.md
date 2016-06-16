@@ -18,7 +18,7 @@ During this project you will use Mongoose to create relationships between multip
 
 ## The Domain
 
-Today you are going to create two new schemas, one for Orders and one for Carts.  You are also going to create a relationship between Carts and Products using a reference, a relationship betwen Orders and Products using embedding, and a relationship between Orders and Users using reference.
+Today you are going to create two new schemas, one for Orders and one for Carts.  You are also going to create a relationship between Carts and Products using a reference, a relationship between Orders and Products using embedding, and a relationship between Orders and Users using reference.
 
 ### Step 1: Create new Schemas: Orders & Carts
 
